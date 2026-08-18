@@ -6,9 +6,9 @@ decade of cross-stack experience, and I consider owning what I build through
 to production part of the job, not a separate role. Open to remote freelance
 work.
 
-**Languages:** Python, Go
-**Platform/SRE:** Kubernetes, CI/CD, observability, Terraform/OpenTofu
-**Backend:** APIs, async processing, event streaming
+- **Languages:** Python, Go
+- **Platform/SRE:** Kubernetes, CI/CD, observability, Terraform/OpenTofu
+- **Backend:** APIs, async processing, event streaming
 
 ### Projects
 
